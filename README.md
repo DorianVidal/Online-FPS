@@ -10,9 +10,9 @@ Have Unreal Engine 4.24 or newer version and run it. There no executable (to hea
 
 ## Authors and members
 
-* **Louis Grange** _alias_[@Louis Grange](github.com/Louis-GRANGE)
+* **Louis Grange** _alias_[@Louis Grange](https://github.com/Louis-GRANGE)
 * **Dorian Vidal** _alias_[@DorianVidal](https://github.com/DorianVidal)
-* **Marc Vialatte** _alias_[@Marc Vialatte](github.com/Marc-Vialatte)
+* **Marc Vialatte** _alias_[@Marc Vialatte](https://github.com/Marc-Vialatte)
 
 ## License
 
