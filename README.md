@@ -6,7 +6,7 @@ Short FPS Online game created on Unreal Engine 4. All code is available for free
 
 ### Installation
 
-Have Unreal Engine 4.24 or newer version and run it. There no executable (to heavy for git)
+Have Unreal Engine 4.24 or newer version and run it. There no executable (begin of the project)
 
 ## Authors and members
 
