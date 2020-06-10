@@ -1,15 +1,21 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 06/10/20 13:03:07
 LogInit: Display: Running engine for game: OnlineFPS
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.165382
 =======
+=======
+>>>>>>> parent of 1ebc1fc... Commit 1.0.1
 ﻿Log file open, 06/09/20 21:03:50
 LogInit: Display: Running engine for game: OnlineFPS
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.080191
+<<<<<<< HEAD
+>>>>>>> parent of 1ebc1fc... Commit 1.0.1
+=======
 >>>>>>> parent of 1ebc1fc... Commit 1.0.1
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
@@ -205,6 +211,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2020.06.10-11.03.08:563][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.06.10-11.03.08:563][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1976,6 +1983,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-11.09.06:457][949]LogPlayLevel: Display: Destroying online subsystem :Context_10
 [2020.06.10-11.09.06:457][949]LogPlayLevel: Display: Destroying online subsystem :Context_9
 =======
+=======
+>>>>>>> parent of 1ebc1fc... Commit 1.0.1
 [2020.06.09-19.03.51:076][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.06.09-19.03.51:076][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.06.09-19.03.51:076][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Saved/Config/Windows/Engine.ini]
@@ -16280,4 +16289,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.09-19.15.43:239][ 40]LogD3D11RHI: CleanupD3DDevice
 [2020.06.09-19.15.43:252][ 40]LogExit: Exiting.
 [2020.06.09-19.15.43:264][ 40]Log file closed, 06/09/20 21:15:43
+<<<<<<< HEAD
+>>>>>>> parent of 1ebc1fc... Commit 1.0.1
+=======
 >>>>>>> parent of 1ebc1fc... Commit 1.0.1
