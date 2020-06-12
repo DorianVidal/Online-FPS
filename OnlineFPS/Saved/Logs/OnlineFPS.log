@@ -8764,3 +8764,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.12-16.19.37:943][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.06.12-16.19.37:963][136]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2020.06.12-16.19.37:963][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.12-16.20.09:638][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.06.12-16.20.12:601][370]LogSlate: Window 'Save Content' being destroyed
+[2020.06.12-16.20.13:500][450]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/HUD/Minimap_HUD/DesignMinimap.DesignMinimap
+[2020.06.12-16.20.14:916][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Minimap_HUD/DesignMinimap" FILE="D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Content/HUD/Minimap_HUD/DesignMinimap.uasset" SILENT=true
+[2020.06.12-16.20.15:028][590]LogSavePackage: Moving 'D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Saved/DesignMinimapA295338040964BD6BD1888AE193681C1.tmp' to 'D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Content/HUD/Minimap_HUD/DesignMinimap.uasset'
+[2020.06.12-16.20.15:038][590]AssetCheck: New page: Asset Save: DesignMinimap
+[2020.06.12-16.20.15:038][590]LogContentValidation: Display: Validating Texture2D /Game/HUD/Minimap_HUD/DesignMinimap.DesignMinimap
+[2020.06.12-16.20.16:184][718]LogSlate: Window 'DesignMinimap' being destroyed
+[2020.06.12-16.20.16:188][718]LogSlate: Window 'DesignMinimap' being destroyed
+[2020.06.12-16.20.17:703][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.06.12-16.20.17:748][888]LogSavePackage: Moving 'D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Saved/ThirdPersonExampleMap797E2F654B05B27AE4ABA8817D63A9D9.tmp' to 'D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Content/Maps/ThirdPersonExampleMap.umap'
+[2020.06.12-16.20.17:780][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.06.12-16.20.17:892][888]LogSavePackage: Moving 'D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Saved/ThirdPersonExampleMap_BuiltDataFB5A8187435642CDF2410EB88EBC9C5E.tmp' to 'D:/Documents/Unreal Projects/FPS_Base/Online-FPS/OnlineFPS/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.12-16.20.17:906][888]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.12-16.20.17:906][888]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.12-16.20.17:906][888]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
